@@ -44,7 +44,7 @@ This page records the update history of the JIM CHEN Archive.
 | 🏠 Accommodation | 2 | 🔴🔴🔴🔴🔴 (5/5) ×2 |
 | 💰 Money | 4 | 🔴🔴🔴🔴 (4/5) ×2, 🔴🔴🔴 (3/5) ×2 |
 | 🎁 Gift & Social | 2 | 🔴🔴 (2/5) ×2 |
-| 🍽<fe0f> Dining Etiquette | 2 | 🔴🔴🔴 (3/5) ×1, 🔴 (1/5) ×1 |
+| 🍽️ Dining Etiquette | 2 | 🔴🔴🔴 (3/5) ×1, 🔴 (1/5) ×1 |
 | 📸 Other Social | 2 | 🔴🔴 (2/5) ×2 |
 | 💔 Relationship | 1 | 🔴🔴🔴🔴 (4/5) ×1 |
 | **Total** | **13** | Average Severity: 3.2/5 |
