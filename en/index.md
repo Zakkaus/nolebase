@@ -8,7 +8,7 @@ titleTemplate: Behavioral Record Documentation
 hero:
   name: JIM CHEN Archive
   text: Behavioral Record
-  tagline: Freeloading, Unpaid Debts, Lack of Basic Social Etiquette - 13 Real Incident Records
+  tagline: Freeloading, Unpaid Debts, Lack of Basic Social Etiquette, Ungrateful Betrayal - 14 Real Incident Records
   image:
     src: /logo.svg
     alt: JIM CHEN Archive

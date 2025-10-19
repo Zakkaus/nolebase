@@ -15,9 +15,9 @@ updated: 2025-10-20
 |------|---------|
 | **Name** | JIM CHEN (陳俊霖) |
 | **Record Start Date** | 2025-10-19 |
-| **Main Characteristics** | Freeloading accommodation/food, unpaid debts, lack of basic social etiquette |
-| **Total Incidents** | 13 |
-| **Categories** | Accommodation, Money, Gifts, Dining, Social, Relationships |
+| **Main Characteristics** | Freeloading accommodation/food, unpaid debts, lack of basic social etiquette, ungrateful betrayal |
+| **Total Incidents** | 14 |
+| **Categories** | Accommodation, Money, Gifts, Dining, Social, Relationships, Ungrateful Betrayal |
 
 ---
 
@@ -208,7 +208,34 @@ Wanted to play games with girlfriend, but always didn't want to learn, said it's
 
 ---
 
-## 📊 Behavioral Pattern Summary
+## � Ungrateful Betrayal Incident
+
+### Incident 14: Henan Friend Ungrateful Betrayal
+
+**Contributor**: mr.joihead
+
+**Summary**  
+Met offline with a very generous person from Henan. The Henan friend treated him extremely well, main acts of kindness included: treating him to Din Tai Fung, occasionally lending 5000 yuan for emergency cash flow. Later had a falling out with the Henan friend, complained about everything, exposed the friend's private matters. The Henan friend angrily called Jim an ungrateful person (白眼狼). Then he twisted the friend's response as "emotional blackmail" and widely publicized it. Although they reconciled later, it caused irreparable damage to the Henan friend's reputation.
+
+**Key Issues**
+- ❌ Accepted generous help (treated to Din Tai Fung, borrowed 5000 yuan for cash flow)
+- ❌ After falling out, complained and exposed private matters
+- ❌ Twisted facts after being called ungrateful
+- ❌ Interpreted the friend's legitimate response as "emotional blackmail"
+- ❌ Widely publicized and smeared the benefactor
+- ❌ Although reconciled, caused irreparable reputation damage
+
+**Impact**
+- 💔 Betrayed benefactor's trust
+- 📢 Public smear campaign caused reputation damage
+- 🔪 Typical case of ungrateful betrayal
+- ⚠️ Twisted facts, reversed right and wrong
+
+**Severity Rating**: 🔴🔴🔴🔴🔴 (5/5)
+
+---
+
+## �📊 Behavioral Pattern Summary
 
 ### 🚨 Severe Problems
 
@@ -217,6 +244,7 @@ Wanted to play games with girlfriend, but always didn't want to learn, said it's
 | **Freeloading Addiction** | Multiple times didn't book room, freeloaded friends' accommodation without payment | ⭐⭐⭐⭐⭐ |
 | **Unpaid Debts** | Long-term delays on various fees, from tens to thousands | ⭐⭐⭐⭐⭐ |
 | **Taking Advantage** | Tries everything to save money, makes others bear costs | ⭐⭐⭐⭐⭐ |
+| **Ungrateful Betrayal** | Accepted help then betrayed, smeared benefactor | ⭐⭐⭐⭐⭐ |
 | **Snoring Unaware** | Disturbs others' rest without awareness | ⭐⭐⭐⭐ |
 
 ### ⚠️ Social Problems
@@ -227,6 +255,7 @@ Wanted to play games with girlfriend, but always didn't want to learn, said it's
 | **Lack of Empathy** | Doesn't consider others' feelings | ⭐⭐⭐⭐⭐ |
 | **Exploitative Socialization** | Only contacts when needing help | ⭐⭐⭐⭐ |
 | **Economic Priority Chaos** | Doesn't spend on what should, spends on what shouldn't | ⭐⭐⭐⭐ |
+| **Twisting Facts** | Interprets others' legitimate responses as attacks | ⭐⭐⭐⭐⭐ |
 
 ### 💭 Relationship Attitude Problems
 
@@ -248,6 +277,7 @@ pie title Incident Classification Statistics
     "Dining Etiquette" : 2
     "Other Social" : 2
     "Relationship" : 1
+    "Ungrateful Betrayal" : 1
 ```
 
 ### Incident Timeline
@@ -262,6 +292,8 @@ timeline
              : Relationship Incident (1)
     2025-10-20 : Archive Improved
              : Statistical Analysis Added
+             : Ungrateful Betrayal Incident Added (1)
+             : Multi-language Support Added
 ```
 
 ---
@@ -319,7 +351,7 @@ If you know or encounter someone with similar behavioral patterns, strongly reco
 <div style="text-align: center; margin-top: 2rem; padding: 1rem; background: #f5f5f5; border-radius: 8px;">
 
 **Last Updated**: 2025-10-20  
-**Total Incidents**: 13  
+**Total Incidents**: 14  
 **Recorded by**: Collective records from real victim online friends  
 
 </div>

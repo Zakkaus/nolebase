@@ -8,7 +8,7 @@ titleTemplate: 陳俊霖行為記錄檔案
 hero:
   name: JIM CHEN 檔案庫
   text: 陳俊霖行為記錄
-  tagline: 蹭吃蹭住、欠錢不還、缺乏基本社交禮儀 - 13 件真實事件全記錄
+  tagline: 蹭吃蹭住、欠錢不還、缺乏基本社交禮儀、恩將仇報 - 14 件真實事件全記錄
   image:
     src: /logo.svg
     alt: JIM CHEN Archive
