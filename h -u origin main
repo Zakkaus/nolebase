@@ -1,0 +1,5 @@
+[33me7ed59b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m fix: disable external proxy redirects for Cloudflare Workers compatibility
+[33mb265e33[m Remove source-han-sans.ttf (exceeds Cloudflare 25MB limit)
+[33m783b2bb[m 更新 wrangler.toml 配置檔，修改名稱為 "chen"
+[33m3433a6f[m 更新 wrangler.toml 配置檔，新增 account_id 和 workers_dev 設定
+[33mc733c17[m 新增 wrangler.toml 配置檔，設定名稱及相容性日期，並指定資源目錄
