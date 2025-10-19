@@ -121,12 +121,11 @@ export default defineConfig({
         },
         sidebar: calculateSidebar([
           { folderName: 'zh-CN/笔记', separate: true },
-          { folderName: 'zh-CN/编目 Catalog', separate: true },
         ], 'zh-CN'),
         footer: {
-          message: '用 <span style="color: #e25555;">&#9829;</span> 撰写',
+          message: '基於真實事件的行為記錄檔案',
           copyright:
-        '<a class="footer-cc-link" target="_blank" href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> © 2022-PRESENT Nólëbase 的创作者们',
+        '<a class="footer-cc-link" target="_blank" href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> © 2025 JIM CHEN 檔案庫',
         },
       },
     },
