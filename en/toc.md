@@ -4,52 +4,58 @@ title: Recent Updates
 
 # 📋 Recent Updates
 
-This page records the update history of JIM CHEN Archive.
+This page records the update history of the JIM CHEN Archive.
 
 ---
 
 ## 2025-10-20
 
-### 🌐 Added Multi-language Support
-- ✅ Added Traditional Chinese (zh-TW) version
-- ✅ Added English (en) version
-- ✅ Complete translation of all core pages
-- ✅ Supports three-language switching
+### 🌐 Multi-language & Content Updates
+- ✅ Added Traditional Chinese (zh-TW) and English (en) versions
+- ✅ Fully translated home, notes index, update history, and main dossier
+- ✅ Reworked Simplified Chinese pages to use consistent locale links
+- ✅ Added mr.joihead contribution: **Incident 14 – Henan Benefactor Betrayal**
 
-### 📝 Content Updates
-- ✅ Added information for 6 event providers
-- ✅ Removed "Catalog" navigation
-- ✅ Fixed homepage YAML format error
-- ✅ Improved all page links
+### 🧾 Incident & Statistics Adjustments
+- 🔄 Updated total incidents to **14**
+- ➕ Added new category: 🔪 Ungrateful Betrayal (1 incident)
+- 📈 Refreshed behavioral pattern summary with “Ungrateful Betrayal” and “Twisting Facts”
+- 📝 Updated charts and timeline to highlight the new incident
+- 🙏 Added contributor **mr.joihead** (Incident 14 reporter)
+
+### 🔧 Fixes & Cleanup
+- 🔁 Corrected Simplified Chinese punctuation and internal links
+- 🧭 Synced navigation and in-site links across all locales
+- 🧹 Continued removal of legacy Nólëbase content
 
 ---
 
 ## 2025-10-19
 
 ### 🎉 Project Launch
-- ✅ Established JIM CHEN Archive
-- ✅ Complete record of 13 real incidents
-- ✅ Built behavioral pattern analysis system
+- ✅ Created the JIM CHEN Archive
+- ✅ Documented 13 real incidents
+- ✅ Built behavioral analysis, charts, and timeline
 - ✅ Deployed to Cloudflare Workers
 
-### 📊 Incident Statistics
+### 📊 Incident Statistics (Day 1)
 | Category | Count | Severity Distribution |
 |----------|-------|----------------------|
 | 🏠 Accommodation | 2 | 🔴🔴🔴🔴🔴 (5/5) ×2 |
 | 💰 Money | 4 | 🔴🔴🔴🔴 (4/5) ×2, 🔴🔴🔴 (3/5) ×2 |
 | 🎁 Gift & Social | 2 | 🔴🔴 (2/5) ×2 |
-| 🍽️ Dining Etiquette | 2 | 🔴🔴🔴 (3/5) ×1, 🔴 (1/5) ×1 |
+| 🍽<fe0f> Dining Etiquette | 2 | 🔴🔴🔴 (3/5) ×1, 🔴 (1/5) ×1 |
 | 📸 Other Social | 2 | 🔴🔴 (2/5) ×2 |
 | 💔 Relationship | 1 | 🔴🔴🔴🔴 (4/5) ×1 |
 | **Total** | **13** | Average Severity: 3.2/5 |
 
-### 👥 Contributors
-- **Zakk (Zakkaus)** - Maintainer
-- **Hamfurry (sgt.hamburger)** - Event Provider
-- **啾頭 (lan._.o)** - Event Provider
-- **李陶 (alubinnananas)** - Event Provider
-- **戴维 (david_2806)** - Event Provider
-- **Yuz (yuz_vividayz)** - Event Provider
+### 👥 Contributors (by join order)
+- **Zakk (Zakkaus)** – Maintainer
+- **Hamfurry (sgt.hamburger)** – Event provider
+- **啾頭 (lan._.o)** – Event provider
+- **李陶 (alubinnananas)** – Event provider
+- **戴维 (david_2806)** – Event provider
+- **Yuz (yuz_vividayz)** – Event provider
 
 ---
 
@@ -63,7 +69,7 @@ This page records the update history of JIM CHEN Archive.
 
 <div style="text-align: center; margin-top: 2rem; padding: 1rem; background: #f5f5f5; border-radius: 8px;">
 
-**Archive Statistics**  
-📅 Running Days: 2 | 📝 Total Incidents: 13 | 👥 Contributors: 6
+**Archive Stats**  
+📅 Running Days: 2 | 📝 Total Incidents: 14 | 👥 Contributors: 7
 
 </div>
