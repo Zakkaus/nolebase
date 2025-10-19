@@ -3,36 +3,54 @@ layout: home
 sidebar: false
 
 title: JIM CHEN 檔案庫
-titleTemplate: 記錄 JIM CHEN 的奇葩事蹟
+titleTemplate: 陳俊霖行為記錄檔案
 
 hero:
   name: JIM CHEN 檔案庫
-  text: 記錄 JIM CHEN 的奇葩事蹟
-  tagline: 一個專門記錄陳俊霖（JIM CHEN）各種迷惑行為的知識庫
+  text: 陳俊霖行為記錄
+  tagline: 蹭吃蹭住、欠錢不還、缺乏基本社交禮儀 - 13 件真實事件全記錄
   image:
     src: /logo.svg
     alt: JIM CHEN Archive
   actions:
     - theme: brand
-      text: 查看詳細記錄
-      link: /zh-CN/笔记/📦 收集箱/陳俊霖 JIM CHEN
+      text: 查看完整檔案
+      link: /笔记/📦 收集箱/陳俊霖 JIM CHEN
     - theme: alt
-      text: 瀏覽全部筆記
-      link: /zh-CN/笔记/index
+      text: 事件統計分析
+      link: /笔记/📦 收集箱/陳俊霖 JIM CHEN#行為模式總結
 
 features:
-  - title: 真實記錄
-    details: 本知識庫記錄了 JIM CHEN 的真實行為事蹟，包括但不限於蹭吃蹭住、欠錢不還等各種迷惑行為。
-    icon: 📝
-  - title: 持續更新
-    details: 隨時記錄新的事件和行為模式，為大家提供參考和警示。
-    icon: �
-  - title: 詳細分類
-    details: 按照不同的行為類型進行分類整理，方便查閱和檢索。
-    icon: �
-  - title: 事實為本
-    details: 所有記錄均基於真實發生的事件，不添加任何虛構內容。
-    icon: ✅
+  - title: 🏠 住宿蹭吃記錄
+    details: 2 起蹭住事件 - 香港大床房不洗澡睡覺、重慶大廈棺材房佔床、長期不付費且打鼾擾人
+    icon: 🏠
+    link: /笔记/📦 收集箱/陳俊霖 JIM CHEN#住宿相關事件
+    
+  - title: 💰 欠錢不還記錄
+    details: 4 起金錢事件 - 買書拖款 3 週、雞塊 AA 拖 30 天、換匯騷擾、學費無著卻給女友花 3000
+    icon: 💰
+    link: /笔记/📦 收集箱/陳俊霖 JIM CHEN#金錢相關事件
+    
+  - title: 🍽️ 禮儀缺失記錄
+    details: 6 起社交問題 - 索要禮物、吃飯漏飯、KTV 獨食、拍照擋臉、學三年英語不認識 Toilet
+    icon: 🍽️
+    link: /笔记/� 收集箱/陳俊霖 JIM CHEN#禮物與社交事件
+    
+  - title: 💔 感情觀念問題
+    details: 1 起感情事件 - 把女友拍醜、給朋友花錢炫耀、不能接受接吻、經濟優先級混亂
+    icon: 💔
+    link: /笔记/📦 收集箱/陳俊霖 JIM CHEN#感情相關事件
+    
+  - title: 📊 行為模式分析
+    details: 嚴重問題、社交問題、感情觀念問題 - 三大類別行為模式總結與警示提醒
+    icon: 📊
+    link: /笔记/📦 收集箱/陳俊霖 JIM CHEN#行為模式總結
+    
+  - title: ⚡ 防範指南
+    details: 基於 13 件真實事件的防範建議 - 不蹭住、不借錢、不墊付、保持距離
+    icon: ⚡
+    link: /笔记/📦 收集箱/陳俊霖 JIM CHEN#警示提醒
 ---
 
 <HomePage />
+
