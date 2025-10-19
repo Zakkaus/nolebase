@@ -2,40 +2,37 @@
 layout: home
 sidebar: false
 
-title: Nólëbase
-titleTemplate: 记录回忆，知识和畅想的地方
+title: JIM CHEN 檔案庫
+titleTemplate: 記錄 JIM CHEN 的奇葩事蹟
 
 hero:
-  name: g~Nj$3J2^
-  text: 记录回忆，知识和畅想的地方
-  tagline: 以 Nólëbase 为名，读作 nole-base，取自意为「知识」的昆雅语 nólë 和意为「基础」的英文 base，即「知识库」
+  name: JIM CHEN 檔案庫
+  text: 記錄 JIM CHEN 的奇葩事蹟
+  tagline: 一個專門記錄陳俊霖（JIM CHEN）各種迷惑行為的知識庫
   image:
     src: /logo.svg
-    alt: Vitest
+    alt: JIM CHEN Archive
   actions:
     - theme: brand
-      text: 开始阅读
+      text: 查看詳細記錄
+      link: /zh-CN/笔记/📦 收集箱/陳俊霖 JIM CHEN
+    - theme: alt
+      text: 瀏覽全部筆記
       link: /zh-CN/笔记/index
-    - theme: alt
-      text: 加入 Discord 服务器
-      link: https://discord.gg/XuNFDcDZGj
-    - theme: alt
-      text: GitHub 上浏览
-      link: https://github.com/nolebase/nolebase
 
 features:
-  - title: 多样的主题和内容
-    details: 本知识库和所生成的页面均由创作者们维护，涉及到生活中各方面知识和内容，也不乏我们的回忆和畅想。
-    icon: 🌈
-  - title: 皆为 Markdown
-    details: 使用 Markdown 和 Markdown 拓展语法编写和记录笔记，每一个页面都是 Markdown 文件。
-    icon: 📃
-  - title: 由 VitePress 驱动
-    details: 基于 Vite 的强大静态文档页面生成器，它生成了我们知识库的页面，提供了简单易用的主题和工具。
-    icon: 🚀
-  - title: 由 Obsidian 驱动
-    details: 强大的知识库管理工具，支持花样繁多的插件和拓展，让知识管理变得更加简单。
-    icon: 🗃
+  - title: 真實記錄
+    details: 本知識庫記錄了 JIM CHEN 的真實行為事蹟，包括但不限於蹭吃蹭住、欠錢不還等各種迷惑行為。
+    icon: 📝
+  - title: 持續更新
+    details: 隨時記錄新的事件和行為模式，為大家提供參考和警示。
+    icon: �
+  - title: 詳細分類
+    details: 按照不同的行為類型進行分類整理，方便查閱和檢索。
+    icon: �
+  - title: 事實為本
+    details: 所有記錄均基於真實發生的事件，不添加任何虛構內容。
+    icon: ✅
 ---
 
 <HomePage />
