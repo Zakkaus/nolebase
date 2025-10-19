@@ -49,6 +49,38 @@ export default defineConfig({
               },
             },
           },
+          'zh-TW': {
+            translations: {
+              button: {
+                buttonText: '搜尋文檔',
+                buttonAriaLabel: '搜尋文檔',
+              },
+              modal: {
+                noResultsText: '無法找到相關結果',
+                resetButtonTitle: '清除查詢條件',
+                footer: {
+                  selectText: '選擇',
+                  navigateText: '切換',
+                },
+              },
+            },
+          },
+          'en': {
+            translations: {
+              button: {
+                buttonText: 'Search',
+                buttonAriaLabel: 'Search',
+              },
+              modal: {
+                noResultsText: 'No results found',
+                resetButtonTitle: 'Clear query',
+                footer: {
+                  selectText: 'Select',
+                  navigateText: 'Navigate',
+                },
+              },
+            },
+          },
         },
 
         // Add title ang tags field in frontmatter to search
@@ -99,7 +131,7 @@ export default defineConfig({
   locales: {
     root: {
       lang: 'zh-CN',
-      label: '中文',
+      label: '简体中文',
       dir: '/zh-CN',
       link: '/zh-CN',
       themeConfig: {
@@ -125,6 +157,68 @@ export default defineConfig({
           message: '基於真實事件的行為記錄檔案',
           copyright:
         '<a class="footer-cc-link" target="_blank" href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> © 2025 JIM CHEN 檔案庫',
+        },
+      },
+    },
+    'zh-TW': {
+      lang: 'zh-TW',
+      label: '繁體中文',
+      dir: '/zh-TW',
+      link: '/zh-TW',
+      themeConfig: {
+        nav: [
+          { text: '主頁', link: '/zh-TW/' },
+          { text: '筆記', link: '/zh-TW/筆記/' },
+          { text: '最近更新', link: '/zh-TW/toc' },
+        ],
+        socialLinks: [
+          { icon: 'github', link: githubRepoLink },
+          { icon: 'discord', link: discordLink },
+        ],
+        darkModeSwitchLabel: '切換主題',
+        outline: { label: '頁面大綱', level: 'deep' },
+        editLink: {
+          pattern: `${githubRepoLink}/tree/main/:path`,
+          text: '編輯本頁面',
+        },
+        sidebar: calculateSidebar([
+          { folderName: 'zh-TW/筆記', separate: true },
+        ], 'zh-TW'),
+        footer: {
+          message: '基於真實事件的行為記錄檔案',
+          copyright:
+        '<a class="footer-cc-link" target="_blank" href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> © 2025 JIM CHEN 檔案庫',
+        },
+      },
+    },
+    'en': {
+      lang: 'en-US',
+      label: 'English',
+      dir: '/en',
+      link: '/en',
+      themeConfig: {
+        nav: [
+          { text: 'Home', link: '/en/' },
+          { text: 'Notes', link: '/en/notes/' },
+          { text: 'Recent Updates', link: '/en/toc' },
+        ],
+        socialLinks: [
+          { icon: 'github', link: githubRepoLink },
+          { icon: 'discord', link: discordLink },
+        ],
+        darkModeSwitchLabel: 'Toggle Theme',
+        outline: { label: 'On this page', level: 'deep' },
+        editLink: {
+          pattern: `${githubRepoLink}/tree/main/:path`,
+          text: 'Edit this page',
+        },
+        sidebar: calculateSidebar([
+          { folderName: 'en/notes', separate: true },
+        ], 'en'),
+        footer: {
+          message: 'Behavioral Record Archive Based on Real Incidents',
+          copyright:
+        '<a class="footer-cc-link" target="_blank" href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> © 2025 JIM CHEN Archive',
         },
       },
     },
