@@ -56,6 +56,34 @@ This page records the update history of the JIM CHEN Archive.
 - **李陶 (alubinnananas)** – Event provider
 - **戴维 (david_2806)** – Event provider
 - **Yuz (yuz_vividayz)** – Event provider
+- **mr.joihead** – Incident 14 contributor
+
+---
+
+## 📈 Statistics
+
+```mermaid
+pie title Incident Severity Distribution
+    "🔴🔴🔴🔴🔴 (5/5)" : 7
+    "🔴🔴🔴🔴 (4/5)" : 3
+    "🔴🔴🔴 (3/5)" : 2
+    "🔴🔴 (2/5)" : 1
+    "🔴 (1/5)" : 1
+```
+
+### Timeline
+
+```mermaid
+timeline
+    title JIM CHEN Archive Development Timeline
+    2025-10-19 : Project Launch
+             : Documented 13 real incidents
+             : Deployed to Cloudflare Workers
+    2025-10-20 : Added Incident 14 (Henan Benefactor Betrayal)
+             : Added multi-language support (Traditional Chinese, English)
+             : Fixed Simplified Chinese formatting
+             : Contributors reached 7 people
+```
 
 ---
 
