@@ -9,5 +9,6 @@
 # Short link
 /to/* /.netlify/functions/to/:splat 301
 
-# i18n
-/*  /zh-CN/:splat  301
+# i18n - redirect root to zh-CN, but avoid infinite loop
+/ /zh-CN/ 301
+/index.html /zh-CN/ 301
